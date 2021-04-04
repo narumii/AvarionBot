@@ -143,4 +143,4 @@ client.on('warn', e => {
 client.on('error', e => {
   console.log(chalk.b.red(e.replace(regToken, 'that was.redacted')));
 });
-client.login("ODI1MDY0Nzc1MTQyMjExNjI3.YF4fcw.JWfiuNIhEGBS8JqVs8dd46ANnDQ"); //stary token avarionbota
+client.login("ODI3NjUwMjczODI0NjA0MTkx.YGeHYg.vTF0mZLaY8UfW7mwJ63sFeOQgrY"); //stary token avarionbota
