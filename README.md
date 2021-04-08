@@ -1,6 +1,7 @@
 # AvarionBot
-1.0 skid endermanq gave me it lol
-2.0 skid Mieta gave me it lol XDDD
+1.0 skid endermanq gave me it lol  
+2.0 skid Mieta gave me it lol XDDD  
+2.1 ehh, long history :D  
 
 # IMPORTANT WARNIGN
 it may contains viruses, token grabbers, i didn't scan it
